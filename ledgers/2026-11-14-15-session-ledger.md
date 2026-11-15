@@ -19,6 +19,8 @@ One line per piece. What it was, where it lives, and the proof. His words are qu
 | Previews: the mind domain wired; Ritual × Pattern; **Wobble Bass × Automation → Automated Wobble Bass** (the repo's real tool faces) | Design canvas "Idea Lab preview" | the canvas |
 | Repos filled (2026-11-15): Ledgers-and-proof (this), Rabbithole (Toolbox, Open Loops, ADHD OS, learning engine, specs, archive), Glass-Engine (the spec GE1–GE9 from his notes), Looking-Glass (spec, phase map, addendum: editor, builder, all Emerge) | the four repos | Toolbox kernel tests 10/10, Open Loops 12/12 |
 | His words N-X41 mapped (tools fuse whole) | Eravos-Canvas `docs/HIS-WORDS-MAP.md`, PR #191 | — |
+| COS 0.10.1 / Nexus 0.60.545: COS tells git to trust his Nexus folder, so the updater's own fix reaches him (no reinstall) | Nexus main a68d0d38; releases cos-v0.10.1, v0.60.545 | `tests/modules/test-cos-git-trust.test.js` 4/4 |
+| The workbench: components as gated pieces, explode / snap, mutate by least friction inside the constraint field, the null against twins, the component and primitive stores (WB0–WB8) | Eravos-Canvas `specs/eravos.workbench.spec`, PR #192 (stacked on #191); previews kept in `docs/previews/workbench/` | — (mapped, nothing built) |
 | Evidence Ledger and Idea Hub docs | `ledgers/evidence-ledger.md`, `ideas/idea-hub.md` (exports of the docs) | — |
 | Competency entry 2026-11-14 (names kept out) | `proof/nexus-PROOF-OF-COMPETENCY.md` | — |
 
@@ -30,6 +32,9 @@ One line per piece. What it was, where it lives, and the proof. His words are qu
 - "i want the provenance on github" · "i want it like books on a shelf"
 
 ## Open
+
+- His one step for updates: Settings › Update › COS itself › Install 0.10.1; then the Update page should show Nexus updating by itself.
+- Workbench: WB_D1 (build in v1 now as data, or v2 on Emerge), WB_D2 (primitives now or in Emerge), WB_D3 (suite or toolbox; what a miniworld holds), Eravos as a COS system.
 
 - Autofill branch: a live run, then merge.
 - Run once on his machine: `node lib/nexus-update.js update` in the Nexus folder, then restart COS.
