@@ -1,0 +1,7 @@
+Accounts & sign-in
+Provider tabs
+Agent mesh
+
+
+ErosmancerOS doesn't connect.
+Page listeners -> needs decay.
