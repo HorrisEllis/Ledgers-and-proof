@@ -17,6 +17,8 @@ One line per piece. What it was, where it lives, and the proof. His words are qu
 | Idea Hub phasemap IH1–IH6 (journal, backup, import once, continue anywhere, agents look back, ideas to builds) | `specs/2026-11-14-idea-hub-phasemap.spec` | logged in `ledgers/idearium-phase-LEDGER.jsonl` |
 | Mind domain spec: every ADHD Toolbox page and Open Loops part as an Eravos tool; no type for a demand, a streak or a miss | `specs/eravos.mind-domain.spec`, Eravos-Canvas PR #191 | the PR |
 | Previews: the mind domain wired; Ritual × Pattern; **Wobble Bass × Automation → Automated Wobble Bass** (the repo's real tool faces) | Design canvas "Idea Lab preview" | the canvas |
+| Repos filled (2026-11-15): Ledgers-and-proof (this), Rabbithole (Toolbox, Open Loops, ADHD OS, learning engine, specs, archive), Glass-Engine (the spec GE1–GE9 from his notes), Looking-Glass (spec, phase map, addendum: editor, builder, all Emerge) | the four repos | Toolbox kernel tests 10/10, Open Loops 12/12 |
+| His words N-X41 mapped (tools fuse whole) | Eravos-Canvas `docs/HIS-WORDS-MAP.md`, PR #191 | — |
 | Evidence Ledger and Idea Hub docs | `ledgers/evidence-ledger.md`, `ideas/idea-hub.md` (exports of the docs) | — |
 | Competency entry 2026-11-14 (names kept out) | `proof/nexus-PROOF-OF-COMPETENCY.md` | — |
 
@@ -31,7 +33,9 @@ One line per piece. What it was, where it lives, and the proof. His words are qu
 
 - Autofill branch: a live run, then merge.
 - Run once on his machine: `node lib/nexus-update.js update` in the Nexus folder, then restart COS.
-- Looking Glass repo: not on GitHub yet (create `HorrisEllis/Looking-Glass`; the bundle is ready to push).
+- Looking Glass: three questions in its ADDENDUM (E4 kernel32 axiom, editor earlier, Electron import one-way or two-way).
+- Glass Engine: three questions in its spec (process or library, what pause pauses, conditions shown before or after).
+- Rabbithole: port 7820 shared by Open Loops, Wublab and Guardian — move one.
 - Mind domain: its name ("mind" is a placeholder) and the tool after Brain dump — his calls.
 - ADHD Toolbox: `data/` out of the repo, delete the stray `powershell.exe`, move Open Loops off port 7820 (Guardian's).
 - Provenance push (another session); COS repo split map; COS Console as a shell; a version bump for the merge.
